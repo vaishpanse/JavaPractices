@@ -31,7 +31,6 @@ public class ArrayReverse {
 			int t = arr[i]; // Store the current element in a temporary variable
 			arr[i] = arr[arr.length - i - 1]; // Swap the current element with the corresponding element from the end
 			arr[arr.length - i - 1] = t; // Assign the temporary variable to the end element
-
 		}
 		System.out.println("Reversed array: ");
 		for (int i = 0; i < arr.length; i++) {
