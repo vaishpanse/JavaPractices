@@ -8,9 +8,7 @@ package array;
 public class ReverseDigitsOfElements {
 	public static void main(String[] args) {
 		int a[] = { 123, 456, 789, 87545 };
-
-		// Create an array to store the reversed numbers, with the same length as the
-		// original array
+		// Create an array to store the reversed numbers, with the same length as the original array
 		int reversedArray[] = new int[a.length];
 
 		// Loop through each element in the original array
