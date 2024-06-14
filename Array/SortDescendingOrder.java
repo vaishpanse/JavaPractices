@@ -1,4 +1,3 @@
-package array;
 /*
  * Program to sort an array in descending oder
  * author:@vaishnaviapnse
