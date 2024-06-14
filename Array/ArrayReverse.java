@@ -1,5 +1,3 @@
-package array;
-
 /*
  *Program to reverse an array by taking array as an input
  *author:@vaishnavipanse
