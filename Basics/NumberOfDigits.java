@@ -1,5 +1,3 @@
-package numbers;
-
 /*
  * Program to find number of digits in an integer
  * author:@vaishnavipanse
