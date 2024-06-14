@@ -1,5 +1,3 @@
-package numbers;
-
 /*
  * Program to reverse the number
  * author:@vaishnavipanse
