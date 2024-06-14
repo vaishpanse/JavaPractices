@@ -1,5 +1,3 @@
-package numbers;
-
 /*
  * Program to print fibonacci series upto the length of given number
  * author:@vaishnavipanse
