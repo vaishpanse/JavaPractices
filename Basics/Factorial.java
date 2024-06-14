@@ -1,5 +1,3 @@
-package numbers;
-
 /*
  * Program to calculate factorial of a number
  * author:@vaishnavipanse
