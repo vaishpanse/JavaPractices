@@ -1,5 +1,3 @@
-package pattern.strings;
-
 /*
  * Program to print following pattern
  * MADAM
@@ -8,6 +6,7 @@ package pattern.strings;
  * MA
  * A
  */
+
 public class Pattern2 {
 	public static void main(String[] args) {
 		String str = "MADAM";
