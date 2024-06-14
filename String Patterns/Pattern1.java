@@ -1,5 +1,3 @@
-package pattern.strings;
-
 /*
 Program to print following pattern.
 String s = "Hello";
