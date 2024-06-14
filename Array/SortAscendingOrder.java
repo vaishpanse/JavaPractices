@@ -1,5 +1,3 @@
-package array;
-
 /*
  * Program to sort an array in ascending oder
  * author:@vaishnaviapnse
