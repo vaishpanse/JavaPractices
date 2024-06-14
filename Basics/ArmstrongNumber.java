@@ -1,5 +1,3 @@
-package numbers;
-
 /*
  * Program to check whether the number is armstrong number or not
  * author:@vaishnavipanse
