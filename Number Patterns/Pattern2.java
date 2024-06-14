@@ -1,5 +1,3 @@
-package pattern.numbers;
-
 /*
  *Input number = 987654
  *Output
