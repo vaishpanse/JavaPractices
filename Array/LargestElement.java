@@ -1,5 +1,3 @@
-package array;
-
 /*
  * Program to find largest element in an array
  * author:@vaishnavipanse
