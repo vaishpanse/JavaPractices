@@ -1,5 +1,3 @@
-package array;
-
 /*
  * Program to reverse each digit of each element in an array
  * author:@vaishnavipanse
